@@ -42,6 +42,8 @@ The **Grant-VMConnectAccess** cmdlet grants access to a user or users to connect
 The cmdlet is intended for use in providing other applications with the appropriate permissions required to initiate a session with Virtual Machine Connection.
 Examples of such applications are Virtual Machine Manager.
 
+If you plan to access to virtual machines using VMConnect.exe you still need to be a member of the "Hyper-V administrators" group.
+
 ## EXAMPLES
 
 ### Example 1
